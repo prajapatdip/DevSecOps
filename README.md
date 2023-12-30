@@ -4,6 +4,8 @@
 
 This project focuses on implementing a robust DevSecOps CI/CD pipeline using Jenkins, SonarQube, Trivy, ArgoCD, and Docker, with deployment on AWS services.
 
+![DevSecOps](https://github.com/prajapatdip/DevSecOps/assets/104031556/3d686bb3-bc8a-4106-af17-fd45765afb4d)
+
 
 ## Pipeline Process
 
